@@ -1,0 +1,52 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color:yellowgreen;
+}
+
+img { border: 1px solid red;}
+
+html { background-color: #ff0000; }
+
+h1{ color: purple; }
+#student_name{
+	border: 2px solid purple;
+}
+
+#main_banner{
+	width:300px;
+	opacity:0.4;
+}
+
+/*
+.very_important{
+	color:red;
+	background-color:#ff0000;
+	font-weight:bold;
+	border: 1px dashed blue;
+	border-right: 2px solid #333333;
+	border-bottom: 2px solid #333333;
+
+}
+*/
+
+.very_important{
+	border: 2px dashed green;
+}
+
+img.very_important{
+	margin: 20px;
+}
+
+.shadow{
+	border-right: 2px solid #333333;
+	border-bottom: 2px solid #333333;
+}
+
+h2{
+	color: red;
+}
